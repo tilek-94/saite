@@ -1,0 +1,28 @@
+tilek-94
+tilek.9420@gmail.com
+Tt9494945
+
+-----------------------------------------------------
+git --version гитхабты версиясын текшерет
+git init проекти иницализация кылат
+
+https://github.com/tilek-94/poekt.git
+
+echo "# poekt" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/tilek-94/poekt.git
+git push -u origin master
+
+
+git clone https://github.com/tilek-94/poekt.git
+
+git status огорудубу текшерет
+
+git add .
+git commit -m "first commit"
+git push
+
+---------------------------------------------------
+git pull Кирген маалыматтарды башка бироо киргизген болсо добавить этет
